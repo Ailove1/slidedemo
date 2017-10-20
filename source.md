@@ -1,62 +1,85 @@
 class: center, middle
 
-# 讲义题目
+# who am I
 
 &nbsp;
 &nbsp;
 
-#### 作者姓名 (author@email.com)  
+#### Rainy Sheep (aiyuyang@pku.edu.cn)  
 
-主页: https://github.com/author
-
----
-
-## 本讲内容
-
-### <font color="orangered">1. 第一部分</font>
-
-#### &nbsp; &nbsp; 1.1 如何学习
-#### &nbsp; &nbsp; 1.2 好好学习
-#### &nbsp; &nbsp; 1.3 好好学习
-
-### 2. 第二部分
-
-### 3. 第三部分
+webpage: https://github.com/Ailove1
 
 ---
 
-## 第一部分
+## outline
 
-```c
-int main()
-{
-  printf("Hello world\n");
-  return 0 ;
-}
-```
+### <font color="orangered">1. part 1</font>
+
+#### &nbsp; &nbsp; 1.1 who am I
+#### &nbsp; &nbsp; 1.2 where am I from
+#### &nbsp; &nbsp; 1.3 where am I going
+
+### <font color="red">2. part 2</font>
+
+#### &nbsp; &nbsp; 2.1 why do I exist
+#### &nbsp; &nbsp; 2.2 how do I exist
+#### &nbsp; &nbsp; 2.3 Do I really exist
+
 
 ---
 
-## 插图
-
-** Ada Lovelace **
-
-<img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Ada_Lovelace_color.svg" width=300 style="margin: 0px 80px">
-
----
-
-## `\(\LaTeX{}\)` in remark
-
-
-1. This is an inline integral: `\(\int_a^bf(x)dx\)`
-2. More `\(x={a \over b}\)` formulae.
-
-Display formula:
-
-$$e^{i\pi} + 1 = 0$$
+## Part 1
+### 1.1
+I am Rainy Sheep.    
+am I?    
+at least you can call me like that.    
+I am something that can be here typing.
 
 ---
+
+## this is me 
+![](https://i.imgur.com/2zzpmLt.jpg)
+
+wow I am so handsome~
+
+---
+### 1.2
+I am from......    
+I find it a little hard to say.    
+I am from Fujian,China.    
+or maybe somewhere above the sky.     
+
+---
+### 1.3 
+I am going to become particles among the universe.     
+I am going everywhere.    
+so I will be back here at random times.     
+I won't die.    
+
+---
+## Part 2    
+### 2.1
+history leads me here.    
+so I shall stay here for some time.
+
+---
+### 2.2
+as a form of self-organised machine.    
+or    
+I am light. I am possibility. I am consciousness.      
+wonderful!
+
+---
+### 2.3
+
+I think I am.    
+so I exist.     
+it is what I think that really matters.    
+ 
+---
+
+
 
 class: center, middle
 
-# 谢谢
+# thanks for your incredible patience.
